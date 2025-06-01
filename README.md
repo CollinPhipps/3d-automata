@@ -2,7 +2,7 @@
 
 A real-time 3D cellular automaton simulation built with OpenGL, featuring customizable rules and interactive controls.
 
-![3D Cellular Automata Demo](Simulation.mp4) <!-- Add a screenshot when available -->
+![3D Cellular Automata Demo](https://github.com/CollinPhipps/3d-automata/blob/main/demo.gif)
 
 ## Features
 
