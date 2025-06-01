@@ -106,6 +106,5 @@ Thumbs.db
 vcpkg_installed/
 conan_cache/
 
-# Keep important config files (uncomment if you want to track these)
-# !CMakePresets.json
-# !.vscode/settings.json
+.gitignore
+media/
