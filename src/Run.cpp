@@ -257,7 +257,7 @@ bool Run::getState() const
 
 void Run::updateRotation(float deltaTime, GLFWwindow* window, glm::quat& rotation)
 {
-	constexpr float rotationSpeed = glm::radians(90.0f);
+	constexpr float rotationSpeed = glm::radians(50.0f);
 
 	glm::quat incrementalRotation = glm::quat(1, 0, 0, 0);
 
