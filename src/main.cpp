@@ -5,8 +5,6 @@
 
 #include "Run.h"
 
-#include <filesystem>
-
 int main()
 {
 	GLFWwindow* window;

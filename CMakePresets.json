@@ -9,8 +9,8 @@
         {
             "name": "default",
             "displayName": "Default Debug Build",
-            "generator": "Ninja",
-            "binaryDir": "${sourceDir/build",
+            "generator": "MinGW Makefiles",
+            "binaryDir": "${sourceDir}/build",
             "cacheVariables": {
                 "CMAKE_BUILD_TYPE": "Debug"
             }
